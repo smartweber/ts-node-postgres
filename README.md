@@ -1,4 +1,4 @@
-# ts-app: Full-stack TypeScript Development Framework
+# Full-stack TypeScript Development Framework
 
 This project is a starting point for developing an API-first application using TypeScript, Node.js, and Postgres.
 
@@ -31,8 +31,6 @@ This project is a starting point for developing an API-first application using T
 ### Starting the app
 - `yarn` to install dependencies
 - `yarn start` to start environment
-
-![alt text](dev/docs/shell.png "Developer experience")
 
 ## Database Operations
 
