@@ -5,9 +5,9 @@
       "basePath": "/api"
   },
   "routes": {
-      "basePath": "/api",
+      "basePath": "/",
       "entryFile": "./api/server.ts",
-      "routesDir": "./api"
+      "routesDir": "./"
   },
   "ignore": [
     "**/node_modules/**"

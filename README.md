@@ -1,4 +1,4 @@
-# Full-stack TypeScript Development Framework
+# ts-app: Full-stack TypeScript Development Framework
 
 This project is a starting point for developing an API-first application using TypeScript, Node.js, and Postgres.
 

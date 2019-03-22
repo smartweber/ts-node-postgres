@@ -9,9 +9,9 @@ import { Timer } from "../utils/timer";
 export const generateExpressRoutes = async () => {
   const timer = new Timer();
   await generateRoutes({
-    basePath: "/api",
+    basePath: "/",
     entryFile: "./api/server.ts",
-    routesDir: "./api",
+    routesDir: "./",
   });
 
   log(
